@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+    <head>php foreach program</head>
+<body>
 <?php
     $technologies = array("Artificial Intelligence", "Cloud Computing", "Blockchain", "Cybersecurity");
     echo "<h2>Tech Categories: </h2>";
@@ -6,3 +10,5 @@
     }
     echo "<br> Total Categories: ", count($technologies);
 ?>
+</body>
+</html>
