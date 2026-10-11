@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-    <head>php foreach program</head>
+<head>
+    <title>php foreach program</title>
+</head>
 <body>
 <?php
     $technologies = array("Artificial Intelligence", "Cloud Computing", "Blockchain", "Cybersecurity");
