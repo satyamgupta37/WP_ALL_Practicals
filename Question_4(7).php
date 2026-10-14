@@ -89,6 +89,6 @@ if (file_exists($file)) {
 echo '<br><a href="suggest.html">Back to Form</a>';
 ?>
 
-#both files in the same folder
+#note:Both files in the same folder
 
 
